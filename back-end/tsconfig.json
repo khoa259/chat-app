@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                      // Phiên bản JavaScript đích
+    "module": "commonjs",                  // Module dùng cho Node.js
+    "rootDir": "./src",                    // Thư mục chứa file TypeScript
+    "outDir": "./dist",                    // Nơi lưu file JavaScript sau khi biên dịch
+    "esModuleInterop": true,               // Hỗ trợ import/export ES module
+    "strict": true,                        // Kích hoạt tất cả các kiểm tra strict
+    "skipLibCheck": true                   // Bỏ qua kiểm tra type trong file .d.ts
+  }
+}

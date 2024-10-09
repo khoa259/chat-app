@@ -1,0 +1,16 @@
+{
+    "Welcome back": "Welcome back",
+    "Login": "Login",
+    "Signup": "Signup",
+    "ForgotPassword": "Forgot password",
+    "Reset password": "Reset password",
+    "Logout": "Logout",
+    "Username": "Username",
+    "Password": "Password",
+    "username": "username",
+    "password": "password",
+    "Enterx": "Enter your {x}",
+    "Don't have an account ?": "Don't have an account ?",
+    "Already have an account ?": "Already have an account ?",
+    "Enter your Email and instructions will be sent to you!": "Enter your Email and instructions will be sent to you!"
+}

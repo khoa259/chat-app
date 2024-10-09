@@ -1,0 +1,16 @@
+{
+    "Welcome back": "Chào mừng quay trở lại",
+    "Login": "Đăng nhập",
+    "Signup": "Đăng ký",
+    "ForgotPassword": "Quên mật khẩu",
+    "Reset password": "Lấy lại mật khẩu",
+    "Logout": "Đăng xuất",
+    "Username": "Tài khoản",
+    "Password": "Mật khẩu",
+    "username": "tài khoản",
+    "password": "mật khẩu",
+    "Enterx": "Nhập {x}",
+    "Don't have an account ?": "Bạn chưa có tài khoản ?",
+    "Already have an account ?": "Bạn đã có tài khoản ?",
+    "Enter your Email and instructions will be sent to you!": "Nhập Email và mã sẽ được gửi đến Email của bạn!"
+}
